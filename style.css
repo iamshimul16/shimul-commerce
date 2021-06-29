@@ -3,8 +3,7 @@
     border-radius: 10px;
 }
 .carousel-item{
-    padding: 20px 40px;
-   
+    padding: 20px 30px;
 }
 .price{
     color: #ff136f;
@@ -18,4 +17,39 @@
 }
 .container{
     margin-bottom: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 40px;
+}
+
+
+
+
+.cat1{
+    background-color:orangered;
+    border-radius: 10px;
+    color: whitesmoke;
+}
+.cat2{
+    background-color:orchid;
+    border-radius: 10px;
+    color: whitesmoke;
+}
+.cat3{
+    background-color:blue;
+    border-radius: 10px;
+        color: whitesmoke ;}
+
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+}
+#subscribe{height: 300px;}
+#subscribe h6{
+    color: grey;
+    
+} 
+footer{
+    text-align: center;
 }
